@@ -1,7 +1,33 @@
-Autolib project
+# Autolib project
+
+This project involves performing exploratory data analysis on an autolib dataset. We are interested in performing;
+* Univariate analysis.
+* Bivariate analysis.
+* Multivariate Analysis.
+
+We will also give observations, conclusions and recommendationds after the analysis.
+
+# Built by
+
+The project has been built by
+
+* Python.
+* Google Colab.
+* Github.
+
+# Author
+
+Francis Thairu.
+
+# Setup
+
+To view the codes and the collab notes, one can easily open it using google collab .
+
+# Contact
+
+Incase of any questions or contributions you can reach author .
+
+frankithairu@gmail.com
 
 
-This project is all about Autolib. Autolib is an electric car sharing service with a signature grey fleet of vehicles rolled out in Paris and the surrounding Ile-de-France region in 2011. 
-This analysis will help identify the most popular hours and stations for picking up and returning the respective cars in Paris.
 
-Setup/Installation Requirements Google account Google colab notebook Load the dataset Pandas and numpy libraries for data manipulation Data cleaning tools Known Bugs There are no known bugs. Technologies Used Python 3.7 Python library - Pandas and Numpy.
